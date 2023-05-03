@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7395f6abe61314448cbbb5029082e74, type: 3}
+  m_Name: Trebuchet Data
+  m_EditorClassIdentifier: 
+  autoRearm: 1
+  minReleaseAngle: -45
+  maxReleaseAngle: 90
+  defaultReleaseAngle: 45
+  maxBodyRotateSpeed: 25
+  rearmSpeed: 25
+  updateReleaseAngleSpeed: 30
+  munitionKey: explosive-munition
