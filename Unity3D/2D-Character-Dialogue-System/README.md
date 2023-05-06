@@ -1,10 +1,15 @@
 # 2D Character Dialogue System
+Built in Unity v2021.3.0f1
 
 ## Video Demos
 
 <b>Dialogue Play Through</b>
 
+https://user-images.githubusercontent.com/11997174/236648506-49087e54-42ef-4577-81b9-8fa5724b27b0.mp4
+
 <b>Aspect Ratio Fitment</b>
+
+https://user-images.githubusercontent.com/11997174/236648508-72c65d82-9235-461f-8e19-676c9c86b4b9.mp4
 
 This dialogue experience is tailored to be viewed on mobile devices utilizing <b>aspect ratios 9:21, 9:16, and 3:4</b> but should accomodate other ratios between those listed.
 
@@ -32,7 +37,7 @@ All stick figure characters were poorly scribbled and the generated background w
 Start from the 'Main' scene.
 
 ### Flow
-
+Click on the game view to advance through the dialogue.<br><br>
 Dialogue Manager in the scene is where everything starts. For this scenario it has been provided a direct reference to the Act object that is to be played.<br>
 Some of the dialogue steps have events tied to them in order to show the cinematic bars.
 <br>
