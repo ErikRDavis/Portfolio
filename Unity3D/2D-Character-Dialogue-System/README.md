@@ -36,7 +36,7 @@ All stick figure characters were poorly scribbled and the generated background w
 Start from the 'Main' scene.
 
 ### Flow
-
+Click on the game view to advance through the dialogue.<br><br>
 Dialogue Manager in the scene is where everything starts. For this scenario it has been provided a direct reference to the Act object that is to be played.<br>
 Some of the dialogue steps have events tied to them in order to show the cinematic bars.
 <br>
