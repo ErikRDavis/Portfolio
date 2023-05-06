@@ -4,7 +4,11 @@
 
 <b>Dialogue Play Through</b>
 
+https://user-images.githubusercontent.com/11997174/236648506-49087e54-42ef-4577-81b9-8fa5724b27b0.mp4
+
 <b>Aspect Ratio Fitment</b>
+
+https://user-images.githubusercontent.com/11997174/236648508-72c65d82-9235-461f-8e19-676c9c86b4b9.mp4
 
 This dialogue experience is tailored to be viewed on mobile devices utilizing <b>aspect ratios 9:21, 9:16, and 3:4</b> but should accomodate other ratios between those listed.
 
