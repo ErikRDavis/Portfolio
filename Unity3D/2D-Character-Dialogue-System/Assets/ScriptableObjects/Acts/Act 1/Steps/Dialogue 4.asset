@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a12d858cb2847341889ebdf62ac3310, type: 3}
+  m_Name: Dialogue 4
+  m_EditorClassIdentifier: 
+  actors:
+  - name: Teal
+    sprite: {fileID: 21300000, guid: b8c304453bd5a704b82a056ddfbd45a6, type: 3}
+    position: {x: 209, y: 71}
+    width: 533.4
+    dialogue:
+      bubblePrefab: {fileID: 0}
+      bubblePosition: {x: 0, y: 0}
+      reverse: 0
+      texts: []
+  - name: Orange
+    sprite: {fileID: 21300000, guid: 090b91e41b083a54f8bdb8516bc48324, type: 3}
+    position: {x: -190, y: -81}
+    width: 721.2
+    dialogue:
+      bubblePrefab: {fileID: 5115484121446708595, guid: 7f2542758b40fb748bab72ea3dc895e5, type: 3}
+      bubblePosition: {x: -253, y: 618}
+      reverse: 0
+      texts:
+      - Relax, I wouldn't let anything happen to you.

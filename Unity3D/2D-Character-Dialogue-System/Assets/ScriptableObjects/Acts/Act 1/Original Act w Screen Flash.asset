@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d7ed4570c0fb0448a4d9a2b970b7c3d, type: 3}
+  m_Name: Original Act w Screen Flash
+  m_EditorClassIdentifier: 
+  background: {fileID: 21300000, guid: 63c1a649bb46db945852785808e9820f, type: 3}
+  steps:
+  - {fileID: 11400000, guid: 13cf9e447d0d1e44ca32f6df3c4d9dc5, type: 2}
+  - {fileID: 11400000, guid: dfdf1638a83a2824a92a182951bc135f, type: 2}
+  - {fileID: 11400000, guid: 2260b1d9116724e49a7babbe22583189, type: 2}
+  - {fileID: 11400000, guid: 22342ffae0f6e284a9ae75593182e524, type: 2}
+  - {fileID: 11400000, guid: 2a3f465496c70d64295c9c46adc8789b, type: 2}
+  - {fileID: 11400000, guid: f6b9db31a392e4741add7c20ed1df89b, type: 2}
+  - {fileID: 11400000, guid: e23041ecdb2053c44a10d430df6ca3f0, type: 2}
+  - {fileID: 11400000, guid: c104326a91530334ba9fdc8fc3d514ca, type: 2}
+  - {fileID: 11400000, guid: 5b95986b2b06b434e9e36086684662fc, type: 2}
+  - {fileID: 11400000, guid: ac11403c475a9f346ba19338b02c4e35, type: 2}
