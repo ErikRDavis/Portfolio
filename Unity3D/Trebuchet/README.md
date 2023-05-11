@@ -7,6 +7,8 @@ Built in Unity v2021.3.23f1
 This project is physics-based.\
 The trebuchet is powered by gravity pulling on the counter weight as one would be in reality, accelerating its munition with centripetal force. Rotating bodies of the trebuchet are connected with configurable joints and the munition is connected to the sling/rope with a fixed joint and is released when the direction of its velocity, relative to the forward direction of the trebuchet, is at an angle approximate to the desired release angle. To ensure the munition actually leaves the trebuchet at the desired angle there is a one time velocity correction performed.
 
+## [Play The Demo](https://erikrdavis.github.io/Portfolio/Unity3D/Demos/Trebuchet/)
+
 ## Playing In Editor
 
 -   Start from scene 'Main'
