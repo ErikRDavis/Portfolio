@@ -8,6 +8,8 @@ This is just a small and fun project that prototypes a dice tower.<br>
 When input is received five "standard" D6 dice are sent tumbling down through the tower that then reports the total value of all the dice once they come to a stop.<br>
 Additionally I personally created the D6 die using Blender as an additional learning experience.
 
+## [Play The Demo](https://erikrdavis.github.io/Portfolio/Unity3D/Demos/Dice-Tower/)
+
 ## Playing In Editor
 
 -   Start from scene 'Main'
