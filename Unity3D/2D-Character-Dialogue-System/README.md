@@ -25,6 +25,8 @@ The project is completely event driven and responds to mouse clicks on the scree
 
 <b>In the original project step 5 of the act was meant to play a screen flash effect in preparation of a character teleporting in with the next step. Step 5 has been removed from the refactored act as it no longer fit the dialogue, but it is viewable in the "Original Act w Screen Flash" act object.</b>
 
+## [Play The Demo](https://erikrdavis.github.io/Portfolio/Unity3D/Demos/2D-Character-Dialogue-System/)
+
 ## Programmer Art
 
 [openart.ai](https://openart.ai/discovery) was utilized to generate a new background image. <br>
