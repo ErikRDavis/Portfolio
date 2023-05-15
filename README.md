@@ -6,6 +6,9 @@ One of my most recent projects is called "Trebuchet". I developed it from scratc
 
 Another project (2D-Character-Dialogue-System) I've included came from an evaluation for a Unity developer job opportunity. I enjoyed the challenge and the resulting project so much I needed to include here.
 
-In addition to these projects, I am also working on a hobby project, VR archery game I plan to release in the not too distance future. I am skilled in C#, Unity scripting, and game design principles, and I am always eager to take on new challenges.
+In addition to these projects, I am also working on a hobby project, VR archery game I plan to release in the not too distant future. I am skilled in C#, Unity scripting, and game design principles, and I am always eager to take on new challenges.
 
 Thank you for taking the time to review my portfolio. If you have any questions or would like to discuss potential opportunities, please don't hesitate to contact me.
+
+
+[My LinkedIn](https://www.linkedin.com/in/erik-davis-949486102?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsWpo3Gk5SUu38%2B0b5eWfXg%3D%3D)
